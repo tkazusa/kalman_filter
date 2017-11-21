@@ -1,5 +1,4 @@
 # README
----------------
 Scripts for state space time series analysis, state transition model.
 
 ## Liecnse
